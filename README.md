@@ -36,5 +36,6 @@
   - Reference
 ---
 # 6. Demo
-  - [Select](https://media.discordapp.net/attachments/1135492078990802955/1205476073341460521/image.png?ex=65d88214&is=65c60d14&hm=a091f2dbb48d8b2317ec85f792679114500d136af6b672ea72f266ac0ecf5200&=&format=webp&quality=lossless&width=1024&height=676)
-  - [Execution](https://media.discordapp.net/attachments/1135492078990802955/1205476073681322024/image.png?ex=65d88214&is=65c60d14&hm=6e9b4a1004dac833f3921144f208c5515cd28e9a4eef6572bf15711d4b2ca9a4&=&format=webp&quality=lossless&width=945&height=676)
+  - ![image](https://github.com/CosminAchitei15/ToyLanguageGUI/assets/149383119/5f6b0f84-6526-46ca-a8c6-11ed4c5c4a7b)
+  - ![image](https://github.com/CosminAchitei15/ToyLanguageGUI/assets/149383119/94f36b76-5637-4023-9a7e-708488f07345)
+
